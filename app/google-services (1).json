@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36689145154",
+    "project_id": "thrifterz-19cf6",
+    "storage_bucket": "thrifterz-19cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36689145154:android:7c21d13efac23858676cdb",
+        "android_client_info": {
+          "package_name": "net.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESU5Vsi_vnj_DoQDgW8l7cA001HI0dzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
